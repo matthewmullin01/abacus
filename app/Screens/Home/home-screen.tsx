@@ -29,6 +29,7 @@ export default class HomeScreen extends React.Component<Props> {
               </Body>
             </CardItem>
           </Card>
+          
           {/* <Button full rounded dark style={{ marginTop: 10 }} onPress={() => this.props.navigation.navigate('Chat')}>
             <Text>Chat With People</Text>
           </Button> */}
